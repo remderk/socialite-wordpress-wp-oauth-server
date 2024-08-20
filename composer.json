@@ -1,5 +1,6 @@
 {
-    "name": "scottybo/socialite-wordpress-wp-oauth-server",
+    "version": 1.0.0,
+    "name": "remderk/socialite-wordpress-wp-oauth-server",
     "description": "A Laravel Socialite Provider for a self-hosted WordPress site using the WP OAuth2 Server plugin",
     "license": "MIT",
     "authors": [{
