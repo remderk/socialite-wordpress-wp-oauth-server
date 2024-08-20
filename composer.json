@@ -9,7 +9,7 @@
     }],
     "minimum-stability": "stable",
     "require": {
-        "socialiteproviders/manager": "~3.0"
+        "socialiteproviders/manager": "~4.6"
     },
     "autoload": {
         "psr-4": {
